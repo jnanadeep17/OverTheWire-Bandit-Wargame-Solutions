@@ -27,7 +27,6 @@ We are Successfully connected as `bandit1`!
 
 
 ### 2. Searching password for next level
-The problem states that the password is in file called `-` we can use `ls` command to view the files.
 
 The `ls` command shows a single file named `-`. In this case the file name is tricky, a normal `cat -` doesn't work, the command will hang. <br> To solve this
  we have to specify the file's path. Since the file is in our current directory `.`, so we can refer it as `./-`
