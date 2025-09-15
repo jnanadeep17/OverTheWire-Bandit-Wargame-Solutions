@@ -25,7 +25,6 @@ It prompts to enter the password, enter it.<br>
 
 We are Successfully connected as `bandit3`!
 
-
 ### 2. Searching password for next level
 The problem states that password for the next level is stored in a hidden file in the `inhere` directory.
 
