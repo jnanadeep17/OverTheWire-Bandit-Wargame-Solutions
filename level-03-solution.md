@@ -34,7 +34,8 @@ use `cd` command to move into the `inhere` folder.
 If we try to list the files in `inhere` folder using `ls` command, it shows nothing.
 
 The challenge here is to find the hidden file. To solve problem this we can use `ls -a` command which shows all the hidden files present in the directory.
-`-a` stands for all including hidden files.
+
+`-a` stands for 'all' including hidden files.
 
 In our case this command lists out various things like `.` `..` `...Hiding-From-You`
 
