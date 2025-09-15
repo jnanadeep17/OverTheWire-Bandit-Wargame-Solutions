@@ -23,7 +23,7 @@ password : `2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ`
 
 It prompts to enter the password, enter it.<br>
 
-We are Successfully connected as `bandit3`!
+We are Successfully connected as `bandit4`!
 
 
 ### 2. Searching password for next level
