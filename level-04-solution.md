@@ -10,7 +10,7 @@ commands used:
 `ssh`, `cd`, `ls`, `cat`, `file`<br>
 
 ### 1. Initiating the SSH connection:
-First step is to connect to bandit3 user account using the password we found in the previous level, with the help of `ssh`.
+First step is to connect to bandit4 user account using the password we found in the previous level, with the help of `ssh`.
 <br>
 
 **Provided credentials:** <br>
@@ -64,4 +64,4 @@ The output clearly shows that `./-file07` is ASCII text, which is the human-read
 ### Flag / password
 The `cat ./-file07` command outputs the password for the next level.<br>
 
-The password for bandit4 is : `4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw`
+The password for bandit5 is : `4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw`
